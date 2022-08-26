@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screens
 
-![1661544219860](https://user-images.githubusercontent.com/41923835/186982756-ccb9e831-31b5-43b0-aee2-47a2215575d7.jpg width="48")
+![1661544219860](https://user-images.githubusercontent.com/41923835/186982756-ccb9e831-31b5-43b0-aee2-47a2215575d7.jpg width=48)
